@@ -9,7 +9,7 @@ body {
 	}
 
 	li {
-		list-style-image: url("Images/icon-plus.png");
+		list-style-image: url("icon-plus.png");
 		line-height: 1.6em;
 		margin-bottom: -5px;
 	}
